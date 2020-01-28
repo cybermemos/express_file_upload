@@ -1,0 +1,20 @@
+{
+  "name": "express_file_upload",
+  "version": "1.0.0",
+  "description": "Using Express.js as the API Gateway implementation to support multipart/form-data upload.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express-fileupload": "^1.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cybermemos.com",
+  "license": "ISC"
+}
